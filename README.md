@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yuzhen Chen</h1>
 
 - I’m currently studying in XJTLU.
-- Contact me **jammiechen0@gmail.com**.
+- passionate about computer science
 
 ## Language and Tools ⚙️
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="Python" width="50" height="50"/></a>
@@ -19,13 +19,7 @@
 ## Github Stats 🔥
 <p align="center">
   <img width="400" height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=kdpkst&show_icons=true&locale=en&layout=compact&theme=radical&title_color=ff3068?" alt="kdpkst" />
-</p>
-<p align="center">
   <img width="400" height="180" src="https://github-readme-stats.vercel.app/api?username=kdpkst&theme=radical&title_color=ff3068?" />
-</p>
-<p align="center">
   <img width="400" height="180" src="http://github-readme-streak-stats.herokuapp.com/?user=kdpkst&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068" />
 </p>
-
-
 
