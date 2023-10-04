@@ -11,8 +11,8 @@
 
 ## Github Stats 🔥
 <p align="center">
-<img width="450" height="190" src="https://github-readme-stats.vercel.app/api/top-langs?username=kdpkst&show_icons=true&locale=en&layout=compact&theme=radical&" alt="kdpkst" />
-<img width="450" height="190" src="https://github-readme-stats.vercel.app/api?username=kdpkst&theme=radical&title_color=ff3068?" />
+<img width="350" height="190" src="https://github-readme-stats.vercel.app/api/top-langs?username=kdpkst&show_icons=true&locale=en&layout=compact&theme=radical&" alt="kdpkst" />
+<img width="350" height="190" src="https://github-readme-stats.vercel.app/api?username=kdpkst&theme=radical&title_color=ff3068?" />
 </p>
-<p align="center"><img width="450" height="200" src="http://github-readme-streak-stats.herokuapp.com/?user=kdpkst&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068" /></p>
+<p align="center"><img width="450" height="190" src="http://github-readme-streak-stats.herokuapp.com/?user=kdpkst&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068" /></p>
 
