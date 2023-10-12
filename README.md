@@ -3,6 +3,19 @@
 - I’m currently studying in XJTLU.
 - Passionate about computer science.
 
+## Github Stats 🔥
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kdpkst&theme=codeSTACKr" />
+</div>
+
+|![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kdpkst&theme=solarized)|![](https://github-readme-stats.vercel.app/api/top-langs?username=kdpkst&theme=solarized)|![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kdpkst&theme=buefy)|![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kdpkst&theme=moltack)|
+|-----|------|------|------|
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kdpkst&bg_color=05a187&title_color=FFFFFF&area=true&area_color=2d04fd&custom_title=kdpkst%20's%20Github%20Activity%20Graph&hide_border=true&theme=monokai" alt="GitHub Stats" width="85%"/>
+</div>
+
+
 ## Tech Stack ⚙️
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="Python" width="50" height="50"/></a>
 <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="50" height="50"/> </a>
@@ -16,11 +29,4 @@
 <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/> </a>
 <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="spring" width="50" height="50"/> </a>
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50"/> </a>
-
-## Github Stats 🔥
-<p align="center">
-  <img width="400" height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=kdpkst&show_icons=true&locale=en&layout=compact&theme=radical" alt="kdpkst" />
-  <img width="400" height="180" src="https://github-readme-stats.vercel.app/api?username=kdpkst&theme=radical&title_color=ff3068?" />
-  <img width="400" height="180" src="http://github-readme-streak-stats.herokuapp.com/?user=kdpkst&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068" />
-</p>
 
