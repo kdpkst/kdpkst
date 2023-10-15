@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Yuzhen Chen</h1>
 
-- I’m currently studying in XJTLU.
-- Passionate about computer science.
+- 👨🏻‍💻 A student majoring in Information and Computing Science.
+- 🔥 Passionate about cybersecurity, machine learning, software dev.
+- 🌱 Currently exploring CTF & AWD.
 
-<h1 align="center"><b> Github Stats 🔥 </b></h1>
+<h1 align="center"><b> 📈 Github Stats 📉 </b></h1>
 
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kdpkst&theme=codeSTACKr" />
