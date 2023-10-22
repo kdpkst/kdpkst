@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yuzhen Chen</h1>
 
 - 👨🏻‍💻 A student majoring in Information and Computing Science.
-- 🔥 Passionate about cybersecurity, machine learning, software dev.
-- 🌱 Currently exploring CTF & AWD.
+- 🔥 Passionate about cybersecurity, software dev, machine learning.
 
 <h1 align="center"><b> 📈 Github Stats 📉 </b></h1>
 
