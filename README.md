@@ -12,10 +12,6 @@
 |![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kdpkst&theme=solarized)|![](https://github-readme-stats.vercel.app/api/top-langs?username=kdpkst)|![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kdpkst&theme=solarized)
 |-----|------|------|
 
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kdpkst&bg_color=05a187&title_color=FFFFFF&area=true&area_color=2d04fd&custom_title=kdpkst's%20Github%20Activity%20Graph&hide_border=true&theme=monokai" alt="GitHub Stats" width="85%"/>
-</div>
-
 
 <h1 align="center"><b> Tech Stack ⚙️ </b></h1>
 
