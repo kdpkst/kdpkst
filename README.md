@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yuzhen Chen</h1>
+<h1 align="center">Hi 👋</h1>
 
 - 👨🏻‍💻 A student majoring in Information and Computing Science.
 - 🔥 Passionate about software/web development, cybersecurity and machine learning.
