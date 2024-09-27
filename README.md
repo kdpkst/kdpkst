@@ -1,7 +1,7 @@
 <h1 align="center">Hi !👋</h1>
 
 - 👨🏻‍💻 I am currently a student pursuing master degree in Information Technology
-- 🔥 Passionate about software/web development, cybersecurity and machine learning
+- 🔥 Passionate about software development, cybersecurity and machine learning
 
 <h1 align="center"><b> 📈 Github Stats 📉 </b></h1>
 
