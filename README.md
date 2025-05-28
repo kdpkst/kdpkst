@@ -3,7 +3,7 @@
 - 👨🏻‍💻 I am currently a student pursuing master degree in Information Technology
 - 🔥 Passionate about software development, cybersecurity and machine learning
 
-<h1 align="center"><b> 📈 Github Stats 📉 </b></h1>
+<h1 align="center"><b>Github Stats</b></h1>
 
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kdpkst&theme=codeSTACKr" />
