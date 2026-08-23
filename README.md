@@ -40,13 +40,6 @@
 
 <p align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=kdpkst&hide_border=true&theme=transparent"
-    height="180"
-  />
-</p>
-
-<p align="center">
-  <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=kdpkst&hide_border=true&theme=github-compact"
     width="95%"
   />
